@@ -611,6 +611,31 @@ ul.ul-edu li .description p.institution {
   }
 }
 
+.people-widget-side {
+    width: 100%;
+}
+
+
+.people-widget-side {
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.people-widget-side .portrait-title h2 {
+  font-size: 1rem;
+}
+
+.people-widget-side .portrait-title h3 {
+  font-size: 0.7rem;
+}
+
+.people-widget-side .avatar {
+  width: 80%;
+  max-width: 150px;
+  height: auto;
+}
+
+
 .share-box {
   float: right;
 }

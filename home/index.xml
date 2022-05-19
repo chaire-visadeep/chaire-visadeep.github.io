@@ -14,21 +14,21 @@
     
     <item>
       <title></title>
-      <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/about/</guid>
-      <description>VISA-DEEP is a project supervised by Professor Matthieu Cord from Sorbonne Université. It was selected under in the call launched in July 2019 by the National Research Agency (ANR) for the creation of research and teaching chairs in AI.
-Objective Our main objective is to tackle complex vision-driven recognition and understanding tasks. We propose to investigate tasks of visual reasoning beyond merely large scale image classification. It is required to decline some reasoning processes in the visual analysis scheme.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/home/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/people/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>VISA-DEEP is a AI chair supervised by Professor Matthieu Cord from Sorbonne Université. It was selected under in the call launched in July 2019 by the National Research Agency (ANR) for the creation of research and teaching chairs in AI. Meta AI and Valeo parly support this chair.
+Objective Our main objective is to tackle complex vision-driven recognition and understanding tasks. We propose to investigate tasks of visual reasoning beyond merely large scale image classification.</description>
     </item>
     
     <item>
